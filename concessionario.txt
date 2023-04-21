@@ -1,0 +1,14 @@
+ID - SMALLINT- Primary Key, UNIQUE, AUTO_INCREMENT, NOT_NULL
+car_license_plate - VARCHAR(7) - NOT_NULL
+brand_car - VARCHAR(20) - NOT_NULL
+model - VARCHAR(20) - NOT_NULL
+car_CV - SMALLINT - NOT_NULL
+car_displacement - VARCHAR(10) - NOT_NULL
+car_registration - DATE - NOT_NULL
+car_set_up - VARCHAR(25) - NULL
+car_doors - TINYINT - NOT_NULL
+car_change - VARCHAR(12) - NOT_NULL
+car_power - VARCHAR(20) - NOT_NULL
+km_car - MEDIUMINT - NOT_NULL
+price - FLOAT(8,2) - NOT_NULL
+seats_car - TINYINT -  NOT_NULL
